@@ -21,6 +21,7 @@ Install the dependencies using:
 
 ```
 pip install beautifulsoup4 pandas
+```
 
 ## How to Use
 Clone the repository or download the script.
@@ -31,3 +32,4 @@ Run the script using:
 
 ```
 python your_script_name.py
+```

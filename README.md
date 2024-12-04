@@ -19,5 +19,15 @@ To run the script, you need the following Python libraries installed:
 
 Install the dependencies using:
 
-```bash
+```
 pip install beautifulsoup4 pandas
+
+## How to Use
+Clone the repository or download the script.
+
+Ensure you have Python installed.
+
+Run the script using:
+
+```
+python your_script_name.py
